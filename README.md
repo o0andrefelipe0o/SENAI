@@ -103,6 +103,3 @@ Este projeto foi desenvolvido pela equipe mista da empresa [nome da empresa], co
 
 [link do linkedin do autor]
 
-
-
-
